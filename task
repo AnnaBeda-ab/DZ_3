@@ -1,0 +1,37 @@
+1/ Створити публічний репозиторій GitHub з назвою dz–3.
+2/ Скласти у форматах JSON, YAML, XML репрезентацію об'єкта студент.
+
+	Використати всі допустимі типи даних.
+
+	Якщо формат дозволяє одні й ті самі дані подати різними способами, використовати різні способи.
+
+	Використовувати щонайменше 10 властивостей об'єкта.
+
+	Використовувати вкладені об'єкти.
+
+3/ Формат здачі: Прикріпити посилання до Pull request з файлами на GitHub.
+
+
+Student:
+bio:
+ name John Smith
+ year_of_birth 2005
+ gender male
+ foto null
+ ukrainian true
+education:
+ faculty Economy
+ ed_program International economy
+ year_of_studying second
+rate 85%
+average_point 5.65
+contacts:
+ adress:
+  country: Ukraine
+  city: Kharkiv
+ phone_number:
+  mobile: +380661231212
+  skype: +380661231111 
+  
+
+

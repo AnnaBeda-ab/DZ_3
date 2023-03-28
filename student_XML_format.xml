@@ -1,0 +1,29 @@
+<xml>
+	<?xml version="1.0" encoding="UTF-8"?>
+	<student>
+		<bio>
+			<name>John Smith</name>
+			<year_of_birth>2005</year_of_birth>
+			<gender>male</gender>
+			<foto>null</foto>
+			<ukrainian>true</ukrainian>
+		</bio>
+		<education>
+			<faculty>Economy</faculty>
+			<ed_program>International economy</ed_program>
+			<year_of_studying>second</year_of_studying>
+		</education>
+		<rate>85%</rate>
+		<average_point>5.65</average_point>
+		<contacts>
+			<adress>
+				<country>Ukraine</country>
+				<city>Kharkiv</city>
+			</adress>
+			<phone_number>
+				<mobile>+380661231212</mobile>
+				<skype>+380661231111</skype>
+			</phone_number>
+		</contacts>
+	</student>
+</xml>
