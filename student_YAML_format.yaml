@@ -1,21 +1,23 @@
 Student:
-bio:
- name: "John Smith"
- year_of_birth: 2005
- gender: male
- foto: null
- ukrainia: true
-education:
- faculty: Economy
- ed_program: "International economy"
- year_of_studying: second
-rate: 85%
-average_point: 5.65
-contacts:
-  adress:
-    country: Ukraine
-    city: Kharkiv
-  phone_number:
-    mobile: +380661231212
-    skype: +380661231111 
-  
+  bio:
+    name: "John Smith"
+    year_of_birth: 2005
+    gender: male
+    foto: null
+    ukrainia: true
+  education:
+    faculty: Economy
+    ed_program: "International economy"
+    year_of_studying: second
+  rate: "85%"
+  average_point: 5.65
+  contacts:
+    adress:
+      country: Ukraine
+      city: Kharkiv
+    phone_number1:
+      - type: mobile
+      - number: 380661231212
+    phone_number2:
+      - type: skype
+      - number: 380661231111

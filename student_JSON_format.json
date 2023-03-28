@@ -16,9 +16,11 @@
  "adress": {
   "country": "Ukraine",
   "city": "Kharkiv"},
-"phone_number": {
-  "mobile": "+380661231212",
-  "skype": "+380661231111"}
-	}
-}
+"phone_number": [
+	{"type": "mobile",
+     "number": "+380661231212"},
+    {"type": "skype",
+     "number": "+380661231111"}]
+  }
+ }
 }
